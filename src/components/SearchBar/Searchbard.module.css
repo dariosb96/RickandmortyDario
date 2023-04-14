@@ -1,0 +1,22 @@
+.search {
+    background-color: #e55eee; 
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 6px 4px;
+    cursor: pointer;
+    border-radius: 30%
+}
+
+.searchdos{
+    color: white;
+    padding: 15px 30px;
+    background-color: rgb(26, 52, 61);
+    font-style: normal;
+font-size: large;
+    opacity: 2;
+    }

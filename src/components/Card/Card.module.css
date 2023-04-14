@@ -1,0 +1,23 @@
+.carta{
+   background-color: #232e55;
+   opacity: .95;
+   color: white;
+   border-color: white;
+   border: 2px;
+   
+  
+}
+
+.boton{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 19px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%
+}

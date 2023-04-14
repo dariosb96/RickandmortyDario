@@ -1,0 +1,9 @@
+.cartas{
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 20px;
+    color:aliceblue;
+    margin-top: 50px;
+    
+}

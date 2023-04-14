@@ -1,0 +1,9 @@
+.divi{ 
+background-color: #9cc54a;
+padding: 15px;
+display:grid;
+grid-template-columns:repeat(6,1fr) ;
+grid-template-rows: auto auto;
+grid-gap: 1em;
+justify-items: left;
+}
